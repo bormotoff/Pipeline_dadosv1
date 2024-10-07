@@ -2,8 +2,6 @@
 
 ![image](docs/images/Retail%20Data%20Pipeline.png)
 
-[Youtube Live demo](https://www.youtube.com/watch?v=NP08fHker5U)
-
 *Using Airflow, BigQuery, Google Cloud Storage, dbt, Soda, Metabase and Python*
 
 ## Objective
@@ -133,11 +131,6 @@ The `project ID` is your GCP Project name (mine was `airflow-dbt-soda-pipeline`)
 
 Connect the database, and it's all set.
 
-### Contact
-If you have questions feel free to ask me.
-- [LinkedIn](https://www.linkedin.com/in/alanlanceloth/)
-- [GitHub](https://github.com/alanceloth/)
-- [alan.lanceloth@gmail.com](mailto:alan.lanceloth@gmail.com)
 
 ### References
 Project based on [Marc Lamberti](https://www.youtube.com/@MarcLamberti) videos.
